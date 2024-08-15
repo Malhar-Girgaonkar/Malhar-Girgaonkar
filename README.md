@@ -37,11 +37,11 @@ I'm currently working on a generative AI tool that will act as my personal assis
 
 <div align="center">
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malhar-Girgaonkar&theme=dark" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malhar-Girgaonkar&theme=react-dark&show_icons=true" alt="Activity Graph" />
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Malhar-Girgaonkar&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malhar-Girgaonkar&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malhar-Girgaonkar&layout=compact&theme=dark&show_icons=true" alt="Top Languages" />
   </div>
 </div>
 
