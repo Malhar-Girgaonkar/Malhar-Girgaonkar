@@ -61,11 +61,11 @@ Currently I am working on a generative AI tool which will act as my personal ass
 
 <div align="center">
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malhar-Girgaonkar&theme=radical" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malhar-Girgaonkar&theme=dark" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Malhar-Girgaonkar&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malhar-Girgaonkar&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Malhar-Girgaonkar&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malhar-Girgaonkar&layout=compact&theme=dark" />
   </div>
 </div>
 
@@ -77,7 +77,6 @@ Currently I am working on a generative AI tool which will act as my personal ass
 <div align="center">
 Feel free to reach out and contribute! 
 </div>
-
 <div align="center">
   <a href="https://leetcode.com/u/Malhar_Girgaonkar/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="52"/>
