@@ -1,8 +1,12 @@
-# Hey, I'm Malhar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+# "Hello There!" Obi-Wan Kenobi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
 <div align="center">
   <img src="https://github.com/Malhar-Girgaonkar/Malhar-Girgaonkar/blob/main/Images/Head_banner.gif?raw=true" alt="Banner" height = "300" width="1000" />
 </div>
+
+## Welcome to my Github Profile
+
+🚀 Here, you'll find a collection of projects showcasing my work in Machine Learning, Web Development, and more. My repository contains code, demos, and experiments that highlight my journey and skills.
 
 ## About Me
 
@@ -12,6 +16,11 @@
 - **Web Development:** Crafting interactive and user-friendly web applications.
 
 I love experimenting with new tools and technologies to enhance my skills and contribute to the open-source community. My projects aim to solve niche problems and improve aspects that I believe could benefit from innovation.
+
+## Achievements
+
+🏅 **Smart India Hackathon(SIH) 2022 Finalist:** My team and I participated in SIH 2022, where we tackled a challenge provided by NDRF. Our project focused on developing an Aerial Seer-assisted 3D mapping system for disaster-affected areas to expedite the process of rescuing affected individuals. This experience offered us the incredible opportunity to compete in a national-level event hosted by a prestigious department. We also had the chance to connect with like-minded and exceptional individuals from various universities and cities during the finals held in Gandhinagar, Gujarat, in August 2022.
+
 
 ## Current Projects
 
@@ -45,6 +54,12 @@ I'm currently working on a generative AI tool that will act as my personal assis
   </div>
 </div>
 
+## Leetcode Stats
+
+<div align="center">
+ <img src="https://leetcard.jacoblin.cool/Malhar_Girgaonkar?theme=dark&font=ABeeZee&ext=heatmap" alt="Leetcode Stats" />
+  </div>
+  
 ## Contact Me
 
 Feel free to reach out and connect with me!
