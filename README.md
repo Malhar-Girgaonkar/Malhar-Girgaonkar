@@ -1,7 +1,7 @@
 # Hey, I'm Malhar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
 <div align="center">
-  <img src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true" alt="Banner" />
+  <img src="https://github.com/Malhar-Girgaonkar/Malhar-Girgaonkar/blob/main/Images/Head_banner.gif?raw=true" alt="Banner" height = "300" width="1000" />
 </div>
 
 ## About Me
